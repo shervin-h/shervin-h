@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="left">Welcome, I'm  Shervin</h1>
+
+**Mobile App Developer**
+
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,python,django,java,js,react,html,css)](https://skillicons.dev)
 
@@ -32,11 +36,9 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="start">
-  <h1 align="start"> About Me </h1>
+  <h2 align="start"> About Me </h2>
 <p h2 align="start">
 
-Welcome, I'm  Shervin.  
-<br>
 I was studying at the master's degree in organic chemistry at the University of Science and Technology, but I stopped studying.
 <br>
 I entered the world of programming by learning Java and Android programming.
