@@ -16,15 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/mahdidahouei/mahdidahouei/assets/58371632/69870ff3-aee2-4f00-9422-d4bb4da5cf76" width="70">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/600px-Dart_logo.png?20220718193800" width="85">
-  <img src="https://media4.giphy.com/media/llarwdtFqG63IlqUR1/giphy.webp?cid=790b76111eckrvyjieff7cgdwji3mky71nz18c4qkgm44w1h&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="100">
+  <img src="https://github.com/mahdidahouei/mahdidahouei/assets/58371632/69870ff3-aee2-4f00-9422-d4bb4da5cf76" alt="Flutter" width="70">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/600px-Dart_logo.png?20220718193800" alt="Dart" width="85">
+  <img src="https://media4.giphy.com/media/llarwdtFqG63IlqUR1/giphy.webp?cid=790b76111eckrvyjieff7cgdwji3mky71nz18c4qkgm44w1h&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="Android" width="100">
   <img src="https://i.ibb.co/gdqhNhF/file-type-python-512x508.png" alt="file-type-python-512x508" border="0" width="85">
   <img src="https://i.ibb.co/yftN9Zw/django-201x256.png" alt="django-201x256" border="0", width="70">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">  
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" alt="Github" width="100">  
   <img src="https://i.ibb.co/Sxphht7/Android-Studio-icon.png" alt="Android-Studio-icon" border="0" width="100">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-  <img src="https://assets-v2.lottiefiles.com/a/04b1da82-1164-11ee-9e89-bfd5dcb506be/8ClPcTXS7A.gif" width="100">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" alt="ReactJs" width="100">
 </p>
 <br/>
 <br/>
@@ -34,16 +33,12 @@ Here are some ideas to get you started:
 <p h2 align="start">
 
 Welcome, I'm  Shervin.  
-
-I studied applied chemistry.
 <br>
 I was studying at the master's degree in organic chemistry at the University of Science and Technology, but I stopped studying.
 <br>
-Since I was interested in programming, I became an IT field.
-<br>
 I entered the world of programming by learning Java and Android programming.
 <br>
-I became interested in Python programming, tried it and worked with the Django framework for a while.
+I became interested in Python, tried it and worked with the Django framework for a while.
 <br>
 Then I tried web programming in PHP and Laravel framework.
 <br>
@@ -72,21 +67,23 @@ I enjoy creating new things like mobile apps with Flutter
 
 
  <a href="https://www.linkedin.com/in/shervin-hassanzadeh/">
-  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat-squar&logo=linkedin&logoColor=white"/>
+   <img alt="Linked In" src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat-squar&logo=linkedin&logoColor=white"/>
  </a>
  <a href="mailto:shervin.hz07@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-squar&logo=gmail&logoColor=white"/>
+   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-squar&logo=gmail&logoColor=white"/>
  </a>
  <a href="https://t.me/shervin_hz07">
-    <img src="https://img.shields.io/badge/Telegram-2B9FD1?style=flat-squar&logo=telegram&logoColor=white" />
-</a>
- <a href="https://github.com/shervin-h">
-  <img alt="github" src="https://img.shields.io/badge/github-121011.svg?style=flat-squar&logo=github&logoColor=white"/>
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2B9FD1?style=flat-squar&logo=telegram&logoColor=white" />
  </a>
-<a href="https://stackoverflow.com/users/13066224/shervin">
-    <img src="https://img.shields.io/badge/Stackoverflow-ef8236?style=flat-squar&logo=stackoverflow&logoColor=white" />
-</a>
+ <a href="https://github.com/shervin-h">
+   <img alt="github" src="https://img.shields.io/badge/github-121011.svg?style=flat-squar&logo=github&logoColor=white"/>
+ </a>
+ <a href="https://stackoverflow.com/users/13066224/shervin">
+   <img alt="stackoverflow" src="https://img.shields.io/badge/Stackoverflow-ef8236?style=flat-squar&logo=stackoverflow&logoColor=white" />
+ </a>
+ 
  <br />
+ 
 <p align="start">
   <h1 align="start"> Skills </h1>
 <p h2 align="start">
@@ -212,10 +209,21 @@ I enjoy creating new things like mobile apps with Flutter
 </p>
 
 <p> 👑 Owner
+ <a href="https://pub.dev/packages/radial_progress">
+  <img alt="ipwhois" src="https://img.shields.io/badge/Radial Progress-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
+  <img alt="ipwhois" src="https://img.shields.io/pub/points/radial_progress?logo=Flutter&label=points"/>
+  <img alt="ipwhois" src="https://img.shields.io/pub/popularity/radial_progress?logo=Flutter"/>
+  <img alt="ipwhois" src="https://img.shields.io/pub/likes/radial_progress?logo=Flutter"/>
+ </a>
+</p>
+
+<p> 👑 Owner
  <a href="https://pub.dev/packages/persian_toolbox">
   <img alt="persian_toolbox" src="https://img.shields.io/badge/Persian Toolbox-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
   <img alt="persian_toolbox" src="https://img.shields.io/pub/points/persian_toolbox?logo=Flutter&label=points"/>
-  <img alt="persian_toolbox" src="https://img.shields.io/pub/popularity/persian_toolbox?logo=dart"/>
-  <img alt="persian_toolbox" src="https://img.shields.io/pub/likes/persian_toolbox?logo=dart"/>
+  <img alt="persian_toolbox" src="https://img.shields.io/pub/popularity/persian_toolbox?logo=Flutter"/>
+  <img alt="persian_toolbox" src="https://img.shields.io/pub/likes/persian_toolbox?logo=Flutter"/>
  </a>
 </p>
+
+<br>
