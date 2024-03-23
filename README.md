@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,python,django,java,js,react,html,css)](https://skillicons.dev)
+
+<!-- <p align="center">
   <img src="https://github.com/mahdidahouei/mahdidahouei/assets/58371632/69870ff3-aee2-4f00-9422-d4bb4da5cf76" alt="Flutter" width="70">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/600px-Dart_logo.png?20220718193800" alt="Dart" width="85">
   <img src="https://media4.giphy.com/media/llarwdtFqG63IlqUR1/giphy.webp?cid=790b76111eckrvyjieff7cgdwji3mky71nz18c4qkgm44w1h&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="Android" width="100">
@@ -24,8 +27,8 @@ Here are some ideas to get you started:
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" alt="Github" width="100">  
   <img src="https://i.ibb.co/Sxphht7/Android-Studio-icon.png" alt="Android-Studio-icon" border="0" width="100">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" alt="ReactJs" width="100">
-</p>
-<br/>
+</p> -->
+
 <br/>
 
 <p align="start">
@@ -59,6 +62,8 @@ I enjoy creating new things like mobile apps with Flutter
 
 
  <br />
+
+ ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
 
 
 <p align="start">
