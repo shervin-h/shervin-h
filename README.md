@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 **Mobile App Developer**
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,python,django,java,js,react,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,python,django,java,kotlin,js,react,html,css,php,wordpress,mysql)](https://skillicons.dev)
 
 <!-- <p align="center">
   <img src="https://github.com/mahdidahouei/mahdidahouei/assets/58371632/69870ff3-aee2-4f00-9422-d4bb4da5cf76" alt="Flutter" width="70">
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 I was studying at the master's degree in organic chemistry at the University of Science and Technology, but I stopped studying.
 <br>
-I entered the world of programming by learning Java and Android programming.
+I entered the world of programming by learning Java and Android.
 <br>
 I became interested in Python, tried it and worked with the Django framework for a while.
 <br>
@@ -191,12 +191,22 @@ I enjoy creating new things like mobile apps with Flutter
 
 <p> 👑 Owner
  <a href="https://pub.dev/packages/iranian_national_code">
-<img alt="iranian_national_code" src="https://img.shields.io/badge/Iranian NationalCode-075898.svg?style=flat-squar&logo=Dart&label=package&labelColor=585858&logoColor=white"/>
+  <img alt="iranian_national_code" src="https://img.shields.io/badge/Iranian NationalCode-075898.svg?style=flat-squar&logo=Dart&label=package&labelColor=585858&logoColor=white"/>
   <img alt="iranian_national_code" src="https://img.shields.io/pub/points/iranian_national_code?logo=dart&label=points"/>
   <img alt="iranian_national_code" src="https://img.shields.io/pub/popularity/iranian_national_code?logo=dart"/>
   <img alt="iranian_national_code" src="https://img.shields.io/pub/likes/iranian_national_code?logo=dart"/>
  </a>
 </p>
+
+<p> 👑 Owner
+ <a href="https://pub.dev/packages/bank">
+  <img alt="bank" src="https://img.shields.io/badge/Bank-075898.svg?style=flat-squar&logo=Dart&label=package&labelColor=585858&logoColor=white"/>
+  <img alt="bank" src="https://img.shields.io/pub/points/bank?logo=dart&label=points"/>
+  <img alt="bank" src="https://img.shields.io/pub/popularity/bank?logo=dart"/>
+  <img alt="bank" src="https://img.shields.io/pub/likes/bank?logo=dart"/>
+ </a>
+</p>
+
 <p> 👑 Owner
  <a href="https://pub.dev/packages/passwd">
   <img alt="Flutter Faded List" src="https://img.shields.io/badge/passwd-075898.svg?style=flat-squar&logo=Dart&label=package&labelColor=585858&logoColor=white"/>
