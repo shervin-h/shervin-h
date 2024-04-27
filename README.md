@@ -244,6 +244,15 @@ I enjoy creating new things like mobile apps with Flutter
 </p>
 
 <p> 👑 Owner
+ <a href="https://pub.dev/packages/curve_clipper">
+  <img alt="Progress Bar" src="https://img.shields.io/badge/Curve Clipper-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
+  <img alt="Progress Bar" src="https://img.shields.io/pub/points/curve_clipper?logo=Flutter&label=points"/>
+  <img alt="Progress Bar" src="https://img.shields.io/pub/popularity/curve_clipper?logo=Flutter"/>
+  <img alt="Progress Bar" src="https://img.shields.io/pub/likes/curve_clipper?logo=Flutter"/>
+ </a>
+</p>
+
+<p> 👑 Owner
  <a href="https://pub.dev/packages/persian_toolbox">
   <img alt="persian_toolbox" src="https://img.shields.io/badge/Persian Toolbox-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
   <img alt="persian_toolbox" src="https://img.shields.io/pub/points/persian_toolbox?logo=Flutter&label=points"/>
