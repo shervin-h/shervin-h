@@ -226,6 +226,15 @@ I enjoy creating new things like mobile apps with Flutter
 </p>
 
 <p> 👑 Owner
+ <a href="https://pub.dev/packages/outline_pie_chart">
+  <img alt="ipwhois" src="https://img.shields.io/badge/Outline Pie Chart-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
+  <img alt="ipwhois" src="https://img.shields.io/pub/points/outline_pie_chart?logo=Flutter&label=points"/>
+  <img alt="ipwhois" src="https://img.shields.io/pub/popularity/outline_pie_chart?logo=Flutter"/>
+  <img alt="ipwhois" src="https://img.shields.io/pub/likes/outline_pie_chart?logo=Flutter"/>
+ </a>
+</p>
+
+<p> 👑 Owner
  <a href="https://pub.dev/packages/radial_progress">
   <img alt="ipwhois" src="https://img.shields.io/badge/Radial Progress-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
   <img alt="ipwhois" src="https://img.shields.io/pub/points/radial_progress?logo=Flutter&label=points"/>
